@@ -9,7 +9,7 @@ Welcome to the repository for my MSc thesis! This project presents a comprehensi
 - **Unsupervised Machine Learning**: To apply advanced clustering techniques like K-means, DBSCAN, and Hierarchical clustering for grouping genes into clusters with high therapeutic relevance and druggability potential.
 - **Pathway and Network Analysis**: To analyse protein-protein interaction (PPI) networks using tools like STRING and NetworkX to uncover the roles of key genes in HF pathways.
 - **Gene Enrichment Analysis**: To perform enrichment analysis using Reactome, KEGG, Gene Ontology (GO), and ClinVar databases, identifying enriched pathways and biological processes that are crucial in the context of HF.
-- **Drug Repurposing**: To identify potential drug repurposing candidates by analyzing drug-gene interactions using DGIdb (Drug-Gene Interaction Database) and SIDER (Side Effect Resource), aiming to discover existing drugs that could be repurposed to treat HF.
+- **Drug Repurposing**: To identify potential drug repurposing candidates by analysing drug-gene interactions using DGIdb (Drug-Gene Interaction Database) and SIDER (Side Effect Resource), aiming to discover existing drugs that could be repurposed to treat HF.
 
 ### Acknowledgments
 
